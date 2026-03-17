@@ -1,7 +1,7 @@
 # 📊 Supplement Sales Data Analysis
 
 ## 📌 Project Overview
-This project performs Exploratory Data Analysis (EDA) on supplement sales data to understand revenue trends, product performance, and customer behavior.
+This project performs Exploratory Data Analysis (EDA) on food supplement sales data to understand revenue trends, product performance, and customer behavior.
 
 ## 🎯 Objectives
 - Analyze revenue patterns across products, locations, and platforms  
