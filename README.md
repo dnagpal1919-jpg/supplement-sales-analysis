@@ -25,5 +25,5 @@ This dataset contains weekly sales data for a variety of health and wellness sup
 - Monthly trends show variation in sales performance  
 - Some categories have higher return rates   
 
-## 🚀 Conclusion
+## Conclusion
 This analysis helps in understanding business performance and can support better decision-making in sales and marketing.
