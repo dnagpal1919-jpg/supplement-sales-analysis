@@ -23,10 +23,7 @@ This dataset contains weekly sales data for a variety of health and wellness sup
 - Revenue varies across product categories and platforms  
 - A few products contribute most of the total revenue  
 - Monthly trends show variation in sales performance  
-- Some categories have higher return rates  
-
-## 📂 Project Files
-- `exploratory_data_analysis.ipynb` → Main notebook  
+- Some categories have higher return rates   
 
 ## 🚀 Conclusion
 This analysis helps in understanding business performance and can support better decision-making in sales and marketing.
